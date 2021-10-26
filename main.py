@@ -9,8 +9,8 @@ HEIGHT_CM = 178
 AGE = 49
 SHEETY_ENDPOINT = 'https://api.sheety.co/83f756b5b637bb7aaefd61fc0a250dde/myWorkouts/workouts'
 exercise_end_point = 'https://trackapi.nutritionix.com/v2/natural/exercise'
-SHEETY_USERNAME = 'aad3rinto'
-SHEETY_PASSWORD = 'NDA4585'
+SHEETY_USERNAME = ''
+SHEETY_PASSWORD = ''
 exercise_text = input('Tell me what exercise you performed today: ')
 headers = {
     'x-app-id': 'acee296d',
